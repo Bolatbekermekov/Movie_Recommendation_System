@@ -34,8 +34,7 @@ This project aims to offer movie recommendations by utilizing cosine similarity 
 
 ## Credits
 
-This project was created by [Your Name] as a part of [Course/Workshop/etc.].
+This project was created by Bolatbek Ermekov 
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
